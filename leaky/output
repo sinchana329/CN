@@ -1,0 +1,9 @@
+Enter bucket size: 5000
+Enter outgoing rate: 2000
+Enter number of inputs: 2
+Enter the incoming packet size: 3000
+Bucket buffer size 3000 out of 5000
+After outgoing 1000 packets left out of 5000 in buffer
+Enter the incoming packet size: 1000
+Bucket buffer size 2000 out of 5000
+After outgoing 0 packets left out of 5000 in buffer
