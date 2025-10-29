@@ -1,0 +1,20 @@
+Enter data to be transmitted: 101010
+Enter the divisor polynomial: 1011
+
+Data padded with n-1 zeroes: 101010000
+CRC value is: 001
+Final codeword to be sent: 101010001
+
+Enter the received data: 100010001
+Error detected.
+
+
+Enter data to be transmitted: 101100
+Enter the divisor polynomial: 1001
+
+Data padded with n-1 zeroes: 101100000
+CRC value is: 001
+Final codeword to be sent: 101100001
+
+Enter the received data: 101100001
+No error detected.
