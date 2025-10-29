@@ -1,0 +1,6 @@
+SERVER:
+UDP Server is listening on port 65432...
+Received message from ('127.0.0.1', 51512): Hello, UDP server!
+
+CLIENT:
+Server says: Message received!
