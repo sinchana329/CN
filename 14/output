@@ -1,0 +1,8 @@
+
+Server terminal:
+Server is listening on port 65432...
+Connected by ('127.0.0.1', 53312)
+Client says: Hello, server!
+
+Client terminal:
+Server says: Message received!
